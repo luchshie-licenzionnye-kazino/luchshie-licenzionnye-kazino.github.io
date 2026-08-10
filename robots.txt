@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: luchshie-licenzionnye-kazino.github.io
+Sitemap: https://luchshie-licenzionnye-kazino.github.io/sitemap.xml
